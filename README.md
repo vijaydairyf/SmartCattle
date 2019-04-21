@@ -1,0 +1,3 @@
+SmartCattle is a smart application base on web. Smart Cattle is a suite of technologies for boosting the quality and quantity of production in dairy farms. Its modular design allows for seamless upgrade as the farm requirements evolve.
+
+Smart Cattle records and analyzes the animal activities and eating patterns for monitoring their health. All this is offered in an easy to use software as a service platform.
